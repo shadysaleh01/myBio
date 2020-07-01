@@ -1,2 +1,2 @@
 # myBio 
-Create a basic HTML page with your own information. 
+A basic HTML and CSS page with my own information. 
